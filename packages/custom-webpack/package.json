@@ -41,5 +41,6 @@
   },
   "peerDependencies": {
     "@angular-devkit/build-angular": ">=0.800.0"
-  }
+  },
+  "gitHead": "9833e703f61710bbaa815499021022cda032da65"
 }
