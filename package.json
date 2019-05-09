@@ -5,7 +5,6 @@
     "type": "git",
     "url": "https://github.com/meltedspark/angular-builders"
   },
-  "private": true,
   "author": "Evgeny Barabanov",
   "license": "MIT",
   "engines": {
